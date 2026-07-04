@@ -162,7 +162,7 @@ npm start
 **Bharat Kamble**
 
 - GitHub: https://github.com/Bharat7020
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/bharat-kamble-89611b327
 
 ---
 
