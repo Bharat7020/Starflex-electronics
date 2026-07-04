@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2ab0e6aa-619f-41ba-8ea8-763553ece391",
+    "name": "Test User",
+    "email": "test_bugfix@example.com",
+    "password": "$2a$12$.NeX2M6EY2Z8bt3jl4b3XO8x4WIv9y6oNg7ewfZ0rMEn0BamSYK0G",
+    "createdAt": "2026-04-06T09:43:13.650Z"
+  },
+  {
+    "id": "0fb634b3-233c-4197-95ac-8a9e02623f31",
+    "name": "mahesh gadekar",
+    "email": "maheshgadekar406@gmail.com",
+    "password": "$2a$12$gQBIkLpdDNDqMIGFni4Q/.BjX8w358qTd21cQBR79m7KHorvURRGq",
+    "createdAt": "2026-04-07T16:45:16.368Z"
+  }
+]

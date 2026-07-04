@@ -1,0 +1,469 @@
+[
+  {
+    "id": "1",
+    "title": "Apple MacBook Pro 16\"",
+    "category": "Laptops",
+    "price": 199999,
+    "originalPrice": 223999,
+    "description": "The most powerful MacBook Pro ever. M3 Max chip, 16-inch Liquid Retina XDR display, up to 128GB unified memory, and up to 4TB SSD. Perfect for professionals who demand the best.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
+      "https://images.unsplash.com/photo-1611186871525-6bcd7d4d94e7?w=600&q=80"
+    ],
+    "rating": 4.9,
+    "reviews": 1204,
+    "stock": 15,
+    "badge": "Best Seller",
+    "specs": {
+      "Processor": "Apple M3 Max",
+      "RAM": "36GB Unified Memory",
+      "Storage": "1TB SSD",
+      "Display": "16.2\" Liquid Retina XDR",
+      "Battery": "Up to 22 hours"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Sony WH-1000XM5 Headphones",
+    "category": "Audio",
+    "price": 27999,
+    "originalPrice": 31999,
+    "description": "Industry-leading noise canceling headphones with 30-hour battery life, crystal clear hands-free calling, and Alexa voice control. Superior sound quality meets all-day comfort.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&q=80",
+      "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=600&q=80"
+    ],
+    "rating": 4.8,
+    "reviews": 3456,
+    "stock": 42,
+    "badge": "Top Rated",
+    "specs": {
+      "Type": "Over-Ear",
+      "Connectivity": "Bluetooth 5.2",
+      "Battery Life": "30 hours",
+      "Noise Canceling": "Industry Leading",
+      "Weight": "250g"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Samsung Galaxy S24 Ultra",
+    "category": "Smartphones",
+    "price": 103999,
+    "originalPrice": 111999,
+    "description": "Galaxy AI is here. With the powerful Snapdragon 8 Gen 3, a 200MP camera system, built-in S Pen, and a stunning 6.8\" Dynamic AMOLED display. Redefine what's possible.",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=600&q=80",
+      "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&q=80"
+    ],
+    "rating": 4.7,
+    "reviews": 2891,
+    "stock": 28,
+    "badge": "New",
+    "specs": {
+      "Processor": "Snapdragon 8 Gen 3",
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Camera": "200MP main",
+      "Display": "6.8\" 120Hz AMOLED"
+    }
+  },
+  {
+    "id": "4",
+    "title": "iPad Pro 12.9\"",
+    "category": "Tablets",
+    "price": 87999,
+    "originalPrice": 95999,
+    "description": "Ultra Retina XDR display, M2 chip, advanced camera system, and all-day battery. The ultimate iPad experience for creative professionals and students everywhere.",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=600&q=80",
+      "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=600&q=80"
+    ],
+    "rating": 4.8,
+    "reviews": 987,
+    "stock": 20,
+    "badge": "Popular",
+    "specs": {
+      "Chip": "Apple M2",
+      "Display": "12.9\" Liquid Retina XDR",
+      "Storage": "256GB",
+      "Connectivity": "Wi-Fi 6E + 5G",
+      "Battery": "Up to 10 hours"
+    }
+  },
+  {
+    "id": "5",
+    "title": "LG 27\" 4K OLED Monitor",
+    "category": "Monitors",
+    "price": 63999,
+    "originalPrice": 79999,
+    "description": "Experience breathtaking 4K OLED picture quality with perfect blacks, vibrant colors, and ultra-fast 0.1ms response time. Ideal for creative work and gaming.",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600&q=80",
+      "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=600&q=80"
+    ],
+    "rating": 4.6,
+    "reviews": 654,
+    "stock": 10,
+    "badge": "Sale",
+    "specs": {
+      "Panel": "OLED",
+      "Resolution": "3840x2160 (4K)",
+      "Refresh Rate": "144Hz",
+      "Response Time": "0.1ms",
+      "Ports": "HDMI 2.1, USB-C"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Logitech MX Master 3S Mouse",
+    "category": "Accessories",
+    "price": 7999,
+    "originalPrice": 8799,
+    "description": "The most advanced Master Series mouse with ultra-fast MagSpeed scroll, 8K DPI, whisper-quiet clicks, and ergonomic design for all-day comfort. Works on any surface.",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=600&q=80"
+    ],
+    "rating": 4.7,
+    "reviews": 2134,
+    "stock": 55,
+    "badge": "",
+    "specs": {
+      "DPI": "200-8000",
+      "Connectivity": "Bluetooth + USB receiver",
+      "Battery": "70 days",
+      "Buttons": "7",
+      "Compatibility": "Windows, macOS, Linux"
+    }
+  },
+  {
+    "id": "7",
+    "title": "Apple AirPods Pro (2nd Gen)",
+    "category": "Audio",
+    "price": 19999,
+    "originalPrice": 22399,
+    "description": "AirPods Pro deliver up to 2x more Active Noise Cancellation than before. The H2 chip enables breakthrough audio with Adaptive Transparency and Personalized Spatial Audio.",
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=600&q=80",
+      "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=600&q=80"
+    ],
+    "rating": 4.8,
+    "reviews": 5678,
+    "stock": 80,
+    "badge": "Best Seller",
+    "specs": {
+      "Chip": "Apple H2",
+      "ANC": "2x Improved",
+      "Battery": "6hrs + 30hrs case",
+      "Water Resistance": "IPX4",
+      "Connectivity": "Bluetooth 5.3"
+    }
+  },
+  {
+    "id": "8",
+    "title": "ASUS ROG Zephyrus G14",
+    "category": "Laptops",
+    "price": 143999,
+    "originalPrice": 159999,
+    "description": "The most powerful 14-inch gaming laptop with AMD Ryzen 9, NVIDIA RTX 4090, 16GB RAM, and a blazing 165Hz display. Form and function at their finest for gamers on the go.",
+    "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80"
+    ],
+    "rating": 4.7,
+    "reviews": 876,
+    "stock": 8,
+    "badge": "Gaming",
+    "specs": {
+      "Processor": "AMD Ryzen 9 7945HX",
+      "GPU": "NVIDIA RTX 4090",
+      "RAM": "32GB DDR5",
+      "Storage": "1TB NVMe SSD",
+      "Display": "14\" 165Hz QHD"
+    }
+  },
+  {
+    "id": "9",
+    "title": "Samsung 65\" Neo QLED 4K TV",
+    "category": "TVs",
+    "price": 159679,
+    "originalPrice": 199999,
+    "description": "Neo QLED 4K with Quantum Mini LEDs for precise light control. 120Hz refresh rate, Dolby Atmos, and Alexa built-in. Immerse yourself in the next level of TV.",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f4ef5f?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f4ef5f?w=600&q=80"
+    ],
+    "rating": 4.6,
+    "reviews": 1123,
+    "stock": 5,
+    "badge": "Sale",
+    "specs": {
+      "Display": "65\" Neo QLED 4K",
+      "Refresh Rate": "120Hz",
+      "HDR": "HDR10+",
+      "Smart OS": "Tizen",
+      "Sound": "Dolby Atmos 4.2.2"
+    }
+  },
+  {
+    "id": "10",
+    "title": "Canon EOS R6 Mark II",
+    "category": "Cameras",
+    "price": 199999,
+    "originalPrice": 215999,
+    "description": "A full-frame mirrorless camera with 40fps burst shooting, 6K RAW video, and a revolutionary subject-tracking AF system. Capture every decisive moment with stunning clarity.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=600&q=80"
+    ],
+    "rating": 4.9,
+    "reviews": 445,
+    "stock": 12,
+    "badge": "Pro",
+    "specs": {
+      "Sensor": "24.2MP Full-Frame CMOS",
+      "Video": "6K RAW",
+      "Burst Rate": "40fps",
+      "ISO": "100-102400",
+      "Stabilization": "8-stop IBIS"
+    }
+  },
+  {
+    "id": "11",
+    "title": "Keychron Q1 Pro Keyboard",
+    "category": "Accessories",
+    "price": 15999,
+    "originalPrice": 18399,
+    "description": "A wireless custom mechanical keyboard with QMK/VIA support, aluminum body, hot-swappable switches, and gasket mount for a premium typing experience.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&q=80"
+    ],
+    "rating": 4.8,
+    "reviews": 789,
+    "stock": 30,
+    "badge": "",
+    "specs": {
+      "Layout": "75% (84 keys)",
+      "Switches": "Gateron G Pro Red",
+      "Connectivity": "Bluetooth + USB-C",
+      "Body": "CNC Aluminum",
+      "Backlight": "RGB per-key"
+    }
+  },
+  {
+    "id": "12",
+    "title": "DJI Mini 4 Pro Drone",
+    "category": "Drones",
+    "price": 60799,
+    "originalPrice": 67999,
+    "description": "Ultra-light foldable drone with 4K/60fps camera, 34-min flight time, omnidirectional obstacle sensing, and ActiveTrack 360. Create cinematic footage anywhere, effortlessly.",
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600&q=80"
+    ],
+    "rating": 4.7,
+    "reviews": 567,
+    "stock": 18,
+    "badge": "New",
+    "specs": {
+      "Camera": "4K/60fps",
+      "Weight": "249g",
+      "Flight Time": "34 minutes",
+      "Range": "20km",
+      "Obstacle Sensing": "Omnidirectional"
+    }
+  },
+  {
+    "id": "13",
+    "title": "Samsung Galaxy Watch 6 Classic",
+    "category": "Wearables",
+    "price": 31999,
+    "originalPrice": 35999,
+    "description": "A premium smartwatch with a rotating bezel, sapphire crystal glass, advanced health tracking (ECG, blood pressure), and 3-day battery life.",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80"
+    ],
+    "rating": 4.5,
+    "reviews": 1234,
+    "stock": 35,
+    "badge": "",
+    "specs": {
+      "Display": "1.5\" Super AMOLED",
+      "Battery": "Up to 3 days",
+      "OS": "Wear OS 4",
+      "Health": "ECG, Blood Pressure",
+      "Water Resistance": "5ATM + IP68"
+    }
+  },
+  {
+    "id": "14",
+    "title": "Bose SoundLink Max Speaker",
+    "category": "Audio",
+    "price": 31999,
+    "originalPrice": 34399,
+    "description": "Bose's biggest portable speaker ever, with room-filling sound, waterproof design (IP67), 20-hour battery, and a built-in kickstand for anywhere listening.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&q=80"
+    ],
+    "rating": 4.6,
+    "reviews": 345,
+    "stock": 22,
+    "badge": "",
+    "specs": {
+      "Battery": "20 hours",
+      "Water Resistance": "IP67",
+      "Connectivity": "Bluetooth 5.3",
+      "Weight": "1.2kg",
+      "Special": "Bose PartyUp"
+    }
+  },
+  {
+    "id": "15",
+    "title": "NVIDIA GeForce RTX 4080 GPU",
+    "category": "Components",
+    "price": 95999,
+    "originalPrice": 103999,
+    "description": "The RTX 4080 with Ada Lovelace architecture, 16GB GDDR6X, and DLSS 3 brings unprecedented performance to gaming, AI, and 3D rendering.",
+    "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=600&q=80"
+    ],
+    "rating": 4.8,
+    "reviews": 892,
+    "stock": 6,
+    "badge": "Hot",
+    "specs": {
+      "Architecture": "Ada Lovelace",
+      "VRAM": "16GB GDDR6X",
+      "CUDA Cores": "9728",
+      "TDP": "320W",
+      "Outputs": "3x DP 1.4a, HDMI 2.1"
+    }
+  },
+  {
+    "id": "16",
+    "title": "iPhone 15 Pro Max",
+    "category": "Smartphones",
+    "price": 95999,
+    "originalPrice": 103999,
+    "description": "The most pro iPhone ever. Titanium design, A17 Pro chip, 48MP main camera with 5x telephoto zoom, and Action button for ultimate customization.",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80"
+    ],
+    "rating": 4.9,
+    "reviews": 4567,
+    "stock": 25,
+    "badge": "Best Seller",
+    "specs": {
+      "Chip": "Apple A17 Pro",
+      "Storage": "256GB",
+      "Camera": "48MP + 12MP + 12MP",
+      "Display": "6.7\" ProMotion OLED",
+      "Material": "Titanium"
+    }
+  },
+  {
+    "id": "17",
+    "title": "Razer DeathAdder V3 Pro",
+    "category": "Accessories",
+    "price": 11999,
+    "originalPrice": 13599,
+    "description": "A top wireless gaming mouse with Focus Pro 30K optical sensor, 90-hour battery, ultra-lightweight design at just 63g, and HyperSpeed wireless at a 4000Hz polling rate.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=600&q=80"
+    ],
+    "rating": 4.7,
+    "reviews": 1567,
+    "stock": 40,
+    "badge": "Gaming",
+    "specs": {
+      "Sensor": "Focus Pro 30K",
+      "DPI": "100-30,000",
+      "Battery": "90 hours",
+      "Weight": "63g",
+      "Polling Rate": "4000Hz"
+    }
+  },
+  {
+    "id": "18",
+    "title": "Samsung T7 Shield SSD",
+    "category": "Storage",
+    "price": 10399,
+    "originalPrice": 11999,
+    "description": "2TB portable NVMe SSD with IP65 dust and water resistance, MIL-STD-810G shock resistance, and blazing USB 3.2 speeds up to 1,050MB/s.",
+    "image": "https://images.unsplash.com/photo-1597852074816-d933c7d2b988?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1597852074816-d933c7d2b988?w=600&q=80"
+    ],
+    "rating": 4.6,
+    "reviews": 2341,
+    "stock": 60,
+    "badge": "",
+    "specs": {
+      "Capacity": "2TB",
+      "Interface": "USB 3.2 Gen 2",
+      "Read Speed": "1,050 MB/s",
+      "Write Speed": "1,000 MB/s",
+      "Protection": "IP65, MIL-STD-810G"
+    }
+  },
+  {
+    "id": "19",
+    "title": "Elgato Stream Deck MK.2",
+    "category": "Accessories",
+    "price": 11999,
+    "originalPrice": 13599,
+    "description": "Take command of your content with 15 customizable LCD keys, interchangeable faceplates, and deep integrations with OBS, Spotify, Twitch, and hundreds of apps.",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=600&q=80"
+    ],
+    "rating": 4.8,
+    "reviews": 4321,
+    "stock": 25,
+    "badge": "Creator",
+    "specs": {
+      "Keys": "15 customizable LCD",
+      "Connectivity": "USB-A",
+      "OS": "Windows & macOS",
+      "Software": "Stream Deck App",
+      "Integrations": "OBS, Spotify, Twitch, more"
+    }
+  },
+  {
+    "id": "20",
+    "title": "Meta Quest 3 VR Headset",
+    "category": "VR",
+    "price": 39999,
+    "originalPrice": 43999,
+    "description": "The most powerful Quest ever with next-gen Snapdragon XR2 Gen 2, breakthrough mixed reality, 40% slimmer optics, and all the world's best VR content and games.",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600&q=80"
+    ],
+    "rating": 4.7,
+    "reviews": 2109,
+    "stock": 14,
+    "badge": "New",
+    "specs": {
+      "Chip": "Snapdragon XR2 Gen 2",
+      "Storage": "128GB",
+      "Resolution": "2064x2208 per eye",
+      "Refresh Rate": "120Hz",
+      "Battery": "2-3 hours gameplay"
+    }
+  }
+]
