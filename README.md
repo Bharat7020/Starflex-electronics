@@ -1,17 +1,27 @@
-# StarFlex Electronics
+#  StarFlex Electronics
 
-A full-stack e-commerce web application built using React.js, Context API, Node.js, and Express.js.
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+A modern full-stack e-commerce web application built using **React.js**, **Context API**, **Node.js**, and **Express.js**. The application provides a seamless shopping experience with user authentication, product browsing, shopping cart management, and checkout functionality.
+
+---
 
 ## Features
 
-- User Authentication
-- Product Catalog
-- Product Details
+- User Authentication (Login & Register)
+- Product Listing
+- Product Details Page
 - Shopping Cart
 - Checkout Flow
-- Responsive Design
-- REST API
-- JSON Data Storage
+- Contact Page
+- REST API Integration
+- JSON-based Data Storage
+- Fully Responsive Design
+
+---
 
 ## Tech Stack
 
@@ -30,21 +40,88 @@ A full-stack e-commerce web application built using React.js, Context API, Node.
 - Express.js
 - REST API
 
-### Storage
+### Database
 
-- JSON
+- JSON File Storage
+
+---
 
 ## Project Structure
 
 ```text
 StarFlex-Electronics
-├── frontend
-└── backend
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/
+│   ├── controllers/
+│   ├── routes/
+│   ├── middleware/
+│   ├── data/
+│   ├── server.js
+│   └── package.json
+│
+└── README.md
 ```
+
+---
+
+## Screenshots
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Products Page
+
+![Products](screenshots/products.png)
+
+---
+
+### Product Details
+
+![Product Details](screenshots/product-details.png)
+
+---
+
+### Shopping Cart
+
+![Cart](screenshots/cart.png)
+
+---
+
+### Checkout
+
+![Checkout](screenshots/checkout.png)
+
+---
+
+### Register
+
+![Register](screenshots/register.png)
+
+---
+
+### Sign Up
+
+![Sign Up](screenshots/signup.png)
+
+---
+
+### Contact
+
+![Contact](screenshots/contact.png)
+
+---
 
 ## Installation
 
-### Clone
+### Clone the repository
 
 ```bash
 git clone https://github.com/Bharat7020/Starflex-electronics.git
@@ -66,8 +143,27 @@ npm install
 npm start
 ```
 
+---
+
+## Future Improvements
+
+- Payment Gateway Integration
+- Wishlist Feature
+- Product Search & Filters
+- Admin Dashboard
+- Order History
+- Product Reviews
+- MongoDB Database Integration
+
+---
+
 ## Author
 
 **Bharat Kamble**
 
-GitHub: https://github.com/Bharat7020
+- GitHub: https://github.com/Bharat7020
+- LinkedIn: *(Add your LinkedIn profile link here)*
+
+---
+
+If you found this project helpful, consider giving it a star.

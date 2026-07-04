@@ -1,16 +1,26 @@
 {
   "2ab0e6aa-619f-41ba-8ea8-763553ece391": [],
-  "sess_vmhyml2oayfmnn0i5kc": [
-    {
-      "id": "ac49cfbb-21d9-480a-ac84-eb6bd2698132",
-      "productId": "1",
-      "title": "Apple MacBook Pro 16\"",
-      "price": 199999,
-      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
-      "quantity": 1,
-      "category": "Laptops"
-    }
-  ],
+  "sess_vmhyml2oayfmnn0i5kc": [],
   "sess_xgpghg9ngchmnn03we4": [],
-  "0fb634b3-233c-4197-95ac-8a9e02623f31": []
+  "0fb634b3-233c-4197-95ac-8a9e02623f31": [],
+  "aa1862a3-ae05-46b7-9b66-d93219feef25": [
+    {
+      "id": "f8686790-18d3-46a0-86e2-d0b142e4b977",
+      "productId": "10",
+      "title": "Canon EOS R6 Mark II",
+      "price": 199999,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+      "quantity": 1,
+      "category": "Cameras"
+    },
+    {
+      "id": "74e3d736-6b0f-4173-a048-7bf724561c6e",
+      "productId": "16",
+      "title": "iPhone 15 Pro Max",
+      "price": 95999,
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=600&q=80",
+      "quantity": 1,
+      "category": "Smartphones"
+    }
+  ]
 }
