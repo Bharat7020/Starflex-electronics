@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "https://starflex-electronics.onrender.com/api/$1"
+    }
+  ]
+}
